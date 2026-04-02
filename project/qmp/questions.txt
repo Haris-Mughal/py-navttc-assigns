@@ -1,0 +1,10 @@
+What is the correct file extension for Python files?,.pyth,.pt,.py,C
+Which function is used to display output in Python?,display(),print(),output(),B
+Which of these is a mutable data structure?,List,Tuple,String,A
+What is the result of 10 / 2 in Python 3?,5,5.0,2.5,B
+Which keyword is used to define a function in Python?,func,define,def,C
+How do you start a comment in Python?,//,#,/**,B
+Which method adds an item to the end of a list?,insert(),extend(),append(),C
+What does the 'w' mode signify in file handling?,Wait,Write,Work,B
+Which data structure uses Key-Value pairs?,List,Dictionary,Set,B
+What error occurs when you divide by zero?,TypeError,ValueError,ZeroDivisionError,C
