@@ -1,0 +1,3 @@
+Product: Laptop
+Qty: 2
+Total: 150000
